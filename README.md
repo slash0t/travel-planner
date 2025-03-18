@@ -13,7 +13,7 @@
 ---
 
 ### Сервисы:
-- [YouGile - таск трекер](https://ru.yougile.com/board/omhvp9x1qyhi)
+- [YouGile](https://ru.yougile.com/board/omhvp9x1qyhi)
 - [Miro](https://miro.com/app/board/uXjVIYva4nE=/?share_link_id=394660775732)
 
 
