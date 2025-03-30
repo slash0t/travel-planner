@@ -12,6 +12,7 @@
 ## Сервисы
 - [YouGile](https://ru.yougile.com/board/omhvp9x1qyhi)
 - [Miro](https://miro.com/app/board/uXjVIYva4nE=/?share_link_id=394660775732)
+- [Figma](https://www.figma.com/design/i1XMvFY416x6mRHShnTiae/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82%D1%8B-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%BE%D0%B2?node-id=0-1&t=V7XbBXds7FWrAqtp-1)
 
 ## Документация
 
