@@ -53,9 +53,9 @@
 
 ## Кто нас оценивал
 - [8 группа 1 команда](https://github.com/mxnmiraii/Vkatun)
-- [10 команда 3 группа](https://github.com/git-company-tp10-1/main)
-- [10 команда 4 группа](https://github.com/LUFFPUFF/TPProduct)
-- [10 команда 5 группа](https://github.com/wizado7/MoneyGuard)
+- [10 группа 3 команда](https://github.com/git-company-tp10-1/main)
+- [10 группа 4 команда](https://github.com/LUFFPUFF/TPProduct)
+- [10 группа 5 команда](https://github.com/wizado7/MoneyGuard)
 
 ## Ссылки на подмодули
 - [Бэк-энд](https://github.com/slash0t/travel-planner-backend)
