@@ -51,6 +51,12 @@
 - [Описание API](https://editor.swagger.io/?url=https://gist.githubusercontent.com/slash0t/27959b723b00113040c967887504ea0b/raw/da622d64545e38f3f41f147ce7dcc1bee5a34b2f/api.yaml)
 - [Функциональные и нефункциональные требования](https://docs.google.com/document/d/15YP0tpKJv_j8BYXxnkmJblgaujJrukchXS15Wi_iMo8/edit?usp=sharing)
 
+## Кто нас оценивал
+- [8 группа 1 команда](https://github.com/mxnmiraii/Vkatun)
+- [10 команда 3 группа](https://github.com/git-company-tp10-1/main)
+- [10 команда 4 группа](https://github.com/LUFFPUFF/TPProduct)
+- [10 команда 5 группа](https://github.com/wizado7/MoneyGuard)
+
 ## Ссылки на подмодули
 - [Бэк-энд](https://github.com/slash0t/travel-planner-backend)
 - [Андроид приложение](https://github.com/slash0t/travel-planner-android)
