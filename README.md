@@ -52,7 +52,7 @@
 
 ## Оценка
 
-[Наш документ с оценкой комманд](https://docs.google.com/spreadsheets/d/1r0d4p1zC7OP8LEB67lbr-8OgCol07Izh5Jgnb7KLjRo/edit?usp=sharing)
+[Наш документ с оценкой комманд](https://github.com/slash0t/travel-planner/blob/main/documentation/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%20%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf)
 
 ### Кого мы оценивали
 
