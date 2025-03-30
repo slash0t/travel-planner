@@ -30,9 +30,7 @@
 - [UserStories](https://docs.google.com/spreadsheets/d/1DPySmOftrjb9FkqHWJtX-5rHa66Ukl_cUHwk_9u7YXs/edit?gid=1267351248#gid=1267351248)
 - [UserStoryMap](https://miro.com/app/board/uXjVIYva4nE=/?moveToWidget=3458764622661425411&cot=14)
 - [Бенчмаркинг](https://docs.google.com/spreadsheets/d/1DPySmOftrjb9FkqHWJtX-5rHa66Ukl_cUHwk_9u7YXs/edit?gid=1962601056#gid=1962601056)
-- Первоначальное описание API:
-[openAPI файл](https://gist.github.com/slash0t/27959b723b00113040c967887504ea0b),
-[сайт для просмотра openAPI файл](https://editor.swagger.io/)
+- [Описание API](https://editor.swagger.io/?url=https://gist.githubusercontent.com/slash0t/27959b723b00113040c967887504ea0b/raw/da622d64545e38f3f41f147ce7dcc1bee5a34b2f/api.yaml)
 
 ## Ссылки на подмодули
 - [Бэк-энд](https://github.com/slash0t/travel-planner-backend)
