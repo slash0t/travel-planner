@@ -1,4 +1,4 @@
-# Travel Planner
+# Путевод
 
 ## Команда (ТП 9-3)
 - Шульженко Даниил - _Team Lead,  Fullstack Developer_
