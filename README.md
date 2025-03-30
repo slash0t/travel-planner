@@ -38,8 +38,7 @@
 [pdf](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod.pdf)
 [docx](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod.pptx)
 - Видеопрезентация
-[rutube](https://rutube.ru/video/016ec749f29fd073313ddebe84f6168a/)
-[youtube](https://youtu.be/4e_eS1oAF8s)
+[rutube](https://rutube.ru/video/private/67167c97d63c9ba0afe738ea44c91877/?r=wd&p=XMlqmLNEu18EGbV2LvDyBA)
 
 
 ## Дополнительные ссылки
