@@ -9,7 +9,6 @@
 ## Команда (ТП 9-3)
 - Шульженко Даниил - _Team Lead,  Fullstack Developer_
 - Едрышов Артем - _DevOps, Fullstack Developer_
-- Назаров Михаил - _Технический писатель, Аналитик_
 - Дедов Павел - _UI&UX Designer_
 - Сторожев Иван - _PM_
 - Ткачук Матвей - _Backend Developer_
