@@ -35,7 +35,7 @@
 ## Презентация проекта
 - Презентация
 [pdf](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod.pdf)
-[docx](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod.pptx)
+[pptx](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod.pptx)
 - Видеопрезентация
 [rutube](https://rutube.ru/video/private/67167c97d63c9ba0afe738ea44c91877/?r=wd&p=XMlqmLNEu18EGbV2LvDyBA)
 
