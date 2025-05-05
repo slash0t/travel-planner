@@ -51,10 +51,12 @@
 
 ### 2 аттестация
 - Презентация
-[pdf]()
-[pptx]()
+[pdf](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod2Att.pdf)
+[pptx](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod2Att.pptx)
 - Видеопрезентация
-[rutube]()
+[rutube](https://rutube.ru/video/private/78102f6c71ad1cd59ceda8b27c8c3452/?p=fni3ZzyqOZqz9auuSBbaPw)
+- Демонстрация работы приложения
+[rutube](https://rutube.ru/video/private/bfac46df6e0191317f7137cf63087269/?p=Pf2dC9sEjjeXAKK-Oc08pg)
 
 ## Дополнительные ссылки
 - [Диаграммы](https://miro.com/app/board/uXjVIYva4nE=/?moveToWidget=3458764622661006601&cot=14)
