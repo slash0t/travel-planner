@@ -32,13 +32,29 @@
 ### Разработка
 - [Правила ведения Github](https://app.weeek.net/s/pravila-vedeniya-github-document-Nzc3NTcxfDllODdjODlkLTIyOWYtNDk0ZS1hZmYwLTJiMjI2NjY3NWQ1Ng==)
 
+### Тестирование
+- Отчет о тестировании API
+[pdf](https://github.com/slash0t/travel-planner/blob/main/documentation/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8%20API.pdf) 
+[docx](https://github.com/slash0t/travel-planner/blob/main/documentation/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8%20API.docx)
+- Отчет об юнит-тестировании API
+[pdf](https://github.com/slash0t/travel-planner/blob/main/documentation/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%20%D1%8E%D0%BD%D0%B8%D1%82-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8.pdf) 
+[docx](https://github.com/slash0t/travel-planner/blob/main/documentation/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%20%D1%8E%D0%BD%D0%B8%D1%82-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8.docx)
+
 ## Презентация проекта
+
+### 1 Аттестация
 - Презентация
 [pdf](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod.pdf)
 [pptx](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod.pptx)
 - Видеопрезентация
 [rutube](https://rutube.ru/video/private/67167c97d63c9ba0afe738ea44c91877/?r=wd&p=XMlqmLNEu18EGbV2LvDyBA)
 
+### 2 аттестация
+- Презентация
+[pdf]()
+[pptx]()
+- Видеопрезентация
+[rutube]()
 
 ## Дополнительные ссылки
 - [Диаграммы](https://miro.com/app/board/uXjVIYva4nE=/?moveToWidget=3458764622661006601&cot=14)
