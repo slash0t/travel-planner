@@ -42,14 +42,14 @@
 
 ## Презентация проекта
 
-### 1 Аттестация
+### Аттестация 1
 - Презентация
 [pdf](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod.pdf)
 [pptx](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod.pptx)
 - Видеопрезентация
 [rutube](https://rutube.ru/video/private/67167c97d63c9ba0afe738ea44c91877/?r=wd&p=XMlqmLNEu18EGbV2LvDyBA)
 
-### 2 аттестация
+### Аттестация 2
 - Презентация
 [pdf](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod2Att.pdf)
 [pptx](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod2Att.pptx)
