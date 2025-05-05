@@ -62,7 +62,7 @@
 - [UserStories](https://docs.google.com/spreadsheets/d/1DPySmOftrjb9FkqHWJtX-5rHa66Ukl_cUHwk_9u7YXs/edit?gid=1267351248#gid=1267351248)
 - [UserStoryMap](https://miro.com/app/board/uXjVIYva4nE=/?moveToWidget=3458764622661425411&cot=14)
 - [Бенчмаркинг](https://docs.google.com/spreadsheets/d/1DPySmOftrjb9FkqHWJtX-5rHa66Ukl_cUHwk_9u7YXs/edit?gid=1962601056#gid=1962601056)
-- [Описание API](https://editor.swagger.io/?url=https://gist.githubusercontent.com/slash0t/27959b723b00113040c967887504ea0b/raw/da622d64545e38f3f41f147ce7dcc1bee5a34b2f/api.yaml)
+# - [Описание API](https://editor.swagger.io/?url=https://gist.githubusercontent.com/slash0t/27959b723b00113040c967887504ea0b/raw/da622d64545e38f3f41f147ce7dcc1bee5a34b2f/api.yaml)
 - [Функциональные и нефункциональные требования](https://docs.google.com/document/d/15YP0tpKJv_j8BYXxnkmJblgaujJrukchXS15Wi_iMo8/edit?usp=sharing)
 
 ## Оценка
