@@ -171,6 +171,14 @@
 | 🌐 **External Service** | Интеграция с внешними сервисами | [Swagger UI](https://www.putevod-app.ru/external/swagger-ui/index.html#/) |
 | 📚 **Library Service** | Сервис хранения информации | [Swagger UI](https://www.putevod-app.ru/library/swagger-ui/index.html#/) |
 
+### 🔑 Доступ к админ-панели
+
+| Компонент | Значение |
+|-----------|----------|
+| 🌐 **Админ-сайт** | [https://www.putevod-app.ru/](https://www.putevod-app.ru/login) |
+| 👤 **Логин** | minenion4@gmail.com |
+| 🔒 **Пароль** | password |
+
 ---
 
 <div align="center">
