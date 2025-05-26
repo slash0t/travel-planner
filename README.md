@@ -1,11 +1,9 @@
 <div align="center">
 
+## Проект команды 9.3
+
 # 🧭 Путевод
 *Мобильное приложение для организации путешествий*
-
-![Version](https://img.shields.io/badge/Version-2.0-blue.svg)
-![Status](https://img.shields.io/badge/Status-В%20разработке-green.svg)
-![Team](https://img.shields.io/badge/Team-ТП%209--3-orange.svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -172,9 +170,5 @@
 ### 🚀 Готовы к новым приключениям с Путевод!
 
 *Создано с ❤️ командой ТП 9-3*
-
-![Footer](https://img.shields.io/badge/Made%20with-❤️-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
 </div>
