@@ -162,6 +162,15 @@
 | 📱 **Android приложение** | Flutter, Dart | [Перейти к репозиторию](https://github.com/slash0t/travel-planner-android) |
 | 💻 **Админ панель** | React | [Перейти к репозиторию](https://github.com/slash0t/travel-planner-admin) |
 
+### 📚 API контракты (Swagger)
+
+| Сервис | Описание | Ссылка |
+|--------|----------|--------|
+| 🔐 **Auth Service** | Сервис аутентификации и авторизации | [Swagger UI](https://www.putevod-app.ru/auth/swagger-ui/index.html#/) |
+| 📝 **Planner Service** | Сервис планирования путешествий | [Swagger UI](https://www.putevod-app.ru/planner/swagger-ui/index.html#/) |
+| 🌐 **External Service** | Интеграция с внешними сервисами | [Swagger UI](https://www.putevod-app.ru/external/swagger-ui/index.html#/) |
+| 📚 **Library Service** | Сервис хранения информации | [Swagger UI](https://www.putevod-app.ru/library/swagger-ui/index.html#/) |
+
 ---
 
 <div align="center">
