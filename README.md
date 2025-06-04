@@ -140,6 +140,15 @@
 - 📋 [Функциональные и нефункциональные требования](https://docs.google.com/document/d/15YP0tpKJv_j8BYXxnkmJblgaujJrukchXS15Wi_iMo8/edit?usp=sharing)
 - 📝 [PM отчет](https://docs.google.com/document/d/15-vncc5bZwXKUgUkS_aa2VlQwW9erpKxUX0VBcxi4jg/edit?usp=sharing)
 
+### 🔐 Доступ к YouGile
+Для более детального просмотра можете зайти в аккаунт и перейти по данной ссылке:
+
+| Параметр | Значение |
+|----------|----------|
+| 📧 **Email** | nikelodeon53@gmail.com |
+| 🔒 **Пароль** | TestOS12345 |
+| 🔗 **Ссылка на проект** | [https://ru.yougile.com/team/55404c604e1b/Путевод](https://ru.yougile.com/team/55404c604e1b/Путевод) |
+
 ## 📊 Оценка проекта
 
 <details>
