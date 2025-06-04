@@ -139,12 +139,12 @@
 ## 🔗 Дополнительные ресурсы
 
 - 📊 [Диаграммы](https://miro.com/app/board/uXjVIYva4nE=/?moveToWidget=3458764622661006601&cot=14)
-- 🗺️ [RoadMap](https://miro.com/app/board/uXjVIYva4nE=/?moveToWidget=3458764622661121521&cot=14)
-- 📖 [UserStories](https://docs.google.com/spreadsheets/d/1DPySmOftrjb9FkqHWJtX-5rHa66Ukl_cUHwk_9u7YXs/edit?gid=1267351248#gid=1267351248)
+- 🗺️ [RoadMap](https://miro.com/app/board/uXjVIYva4nE=/?moveToWidget=3458764622661121521&cot=14) | [PDF](https://github.com/slash0t/travel-planner/blob/main/documentation/other/RoadMap.pdf)
+- 📖 [UserStories](https://docs.google.com/spreadsheets/d/1DPySmOftrjb9FkqHWJtX-5rHa66Ukl_cUHwk_9u7YXs/edit?gid=1267351248#gid=1267351248) | [PDF](https://github.com/slash0t/travel-planner/blob/main/documentation/other/ТП%20Приложение%20-%20User%20Stories.pdf)
 - 🗂️ [UserStoryMap](https://miro.com/app/board/uXjVIYva4nE=/?moveToWidget=3458764622661425411&cot=14)
-- 📈 [Бенчмаркинг](https://docs.google.com/spreadsheets/d/1DPySmOftrjb9FkqHWJtX-5rHa66Ukl_cUHwk_9u7YXs/edit?gid=1962601056#gid=1962601056)
-- 📋 [Функциональные и нефункциональные требования](https://docs.google.com/document/d/15YP0tpKJv_j8BYXxnkmJblgaujJrukchXS15Wi_iMo8/edit?usp=sharing)
-- 📝 [PM отчет](https://docs.google.com/document/d/15-vncc5bZwXKUgUkS_aa2VlQwW9erpKxUX0VBcxi4jg/edit?usp=sharing)
+- 📈 [Бенчмаркинг](https://docs.google.com/spreadsheets/d/1DPySmOftrjb9FkqHWJtX-5rHa66Ukl_cUHwk_9u7YXs/edit?gid=1962601056#gid=1962601056) | [PDF](https://github.com/slash0t/travel-planner/blob/main/documentation/other/ТП%20Приложение%20-%20Бенчмаркинг.pdf)
+- 📋 [Функциональные и нефункциональные требования](https://docs.google.com/document/d/15YP0tpKJv_j8BYXxnkmJblgaujJrukchXS15Wi_iMo8/edit?usp=sharing) | [PDF](https://github.com/slash0t/travel-planner/blob/main/documentation/other/Функциональные%20и%20нефункциональные%20требования.pdf)
+- 📝 [PM отчет](https://docs.google.com/document/d/15-vncc5bZwXKUgUkS_aa2VlQwW9erpKxUX0VBcxi4jg/edit?usp=sharing) | [PDF](https://github.com/slash0t/travel-planner/blob/main/documentation/other/Краткий%20PM-отчёт.pdf)
 
 ### 🔐 Доступ к YouGile
 Для более детального просмотра можете зайти в аккаунт и перейти по данной ссылке:
