@@ -81,6 +81,12 @@
 - 📕 [PDF](https://github.com/slash0t/travel-planner/blob/main/documentation/КурсоваяРабота93.pdf) 
 - 📘 [DOCX](https://github.com/slash0t/travel-planner/blob/main/documentation/КурсоваяРабота93.docx)
 
+### 🏃 Отчеты о спринтах
+- 📈 [Sprint 1 (06.03-19.03)](https://github.com/slash0t/travel-planner/blob/main/documentation/Sprint1%2006.03-19.03.pdf)
+- 📈 [Sprint 2 (20.03-02.04)](https://github.com/slash0t/travel-planner/blob/main/documentation/Sprint2%2020.03-02.04.pdf)
+- 📈 [Sprint 3 (09.04-22.04)](https://github.com/slash0t/travel-planner/blob/main/documentation/Sprint3%2009.04-22.04.pdf)
+- 📈 [Sprint 4 (23.04-06.05)](https://github.com/slash0t/travel-planner/blob/main/documentation/Sprint4%2023.04-06.05.pdf)
+
 </details>
 
 <details>
