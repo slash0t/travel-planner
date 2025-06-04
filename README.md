@@ -70,8 +70,8 @@
 <summary>📋 <strong>Проектная документация</strong></summary>
 
 ### 📄 Техническое задание
-- 📕 [PDF](https://github.com/slash0t/travel-planner/blob/main/documentation/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/TZ_OS.pdf) 
-- 📘 [DOCX](https://github.com/slash0t/travel-planner/blob/main/documentation/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5/TZ_OS.docx)
+- 📕 [PDF](https://github.com/slash0t/travel-planner/blob/main/documentation/техническое%20задание/TZ_OS_edited.pdf) 
+- 📘 [DOCX](https://github.com/slash0t/travel-planner/blob/main/documentation/техническое%20задание/TZ_OS_edited.docx)
 
 ### 🔍 Предпроектное исследование
 - 📕 [PDF](https://github.com/slash0t/travel-planner/blob/main/documentation/%D0%9F%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D0%B5%20%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf) 
@@ -93,13 +93,17 @@
 <details>
 <summary>🧪 <strong>Тестирование</strong></summary>
 
+### 📊 Отчет по тестированию (краткий)
+- 📕 [PDF](https://github.com/slash0t/travel-planner/blob/main/documentation/тестирование/Отчет%20по%20тестированию.pdf) 
+- 📊 [PPTX](https://github.com/slash0t/travel-planner/blob/main/documentation/тестирование/Отчет%20по%20тестированию.pptx)
+
 ### 🔬 Отчет о тестировании API
-- 📕 [PDF](https://github.com/slash0t/travel-planner/blob/main/documentation/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8%20API.pdf) 
-- 📘 [DOCX](https://github.com/slash0t/travel-planner/blob/main/documentation/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8%20API.docx)
+- 📕 [PDF](https://github.com/slash0t/travel-planner/blob/main/documentation/тестирование/Отчет%20о%20тестировании%20API.pdf) 
+- 📘 [DOCX](https://github.com/slash0t/travel-planner/blob/main/documentation/тестирование/Отчет%20о%20тестировании%20API.docx)
 
 ### ⚡ Отчет об юнит-тестировании API
-- 📕 [PDF](https://github.com/slash0t/travel-planner/blob/main/documentation/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%20%D1%8E%D0%BD%D0%B8%D1%82-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8.pdf) 
-- 📘 [DOCX](https://github.com/slash0t/travel-planner/blob/main/documentation/%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9E%D1%82%D1%87%D0%B5%D1%82%20%D0%BE%D0%B1%20%D1%8E%D0%BD%D0%B8%D1%82-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8.docx)
+- 📕 [PDF](https://github.com/slash0t/travel-planner/blob/main/documentation/тестирование/Отчет%20об%20юнит-тестировании.pdf) 
+- 📘 [DOCX](https://github.com/slash0t/travel-planner/blob/main/documentation/тестирование/Отчет%20об%20юнит-тестировании.docx)
 
 </details>
 
