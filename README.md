@@ -198,8 +198,8 @@
 
 | Компонент | Технологии | Репозиторий |
 |-----------|------------|-------------|
-| 🔧 **Backend API** | Java, Spring Boot, PostgreSQL | [Перейти к репозиторию](https://github.com/slash0t/travel-planner-backend) |
-| 📱 **Android приложение** | Flutter, Dart | [Перейти к репозиторию](https://github.com/slash0t/travel-planner-android) |
+| 🔧 **Backend API** | Java, Spring Boot, PostgreSQL | [Перейти к репозиторию](https://github.com/slash0t/travel-planner-backend/tree/develop) |
+| 📱 **Android приложение** | Flutter, Dart | [Перейти к репозиторию](https://github.com/slash0t/travel-planner-android/tree/develop) |
 | 💻 **Админ панель** | React | [Перейти к репозиторию](https://github.com/slash0t/travel-planner-admin) |
 
 ### 📚 API контракты (Swagger)
