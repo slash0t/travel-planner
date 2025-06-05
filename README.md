@@ -86,6 +86,8 @@
 - 📈 [Sprint 2 (20.03-02.04)](https://github.com/slash0t/travel-planner/blob/main/documentation/Sprint2%2020.03-02.04.pdf)
 - 📈 [Sprint 3 (09.04-22.04)](https://github.com/slash0t/travel-planner/blob/main/documentation/Sprint3%2009.04-22.04.pdf)
 - 📈 [Sprint 4 (23.04-06.05)](https://github.com/slash0t/travel-planner/blob/main/documentation/Sprint4%2023.04-06.05.pdf)
+- 📈 [Sprint 5 (07.05-20.05)](https://github.com/slash0t/travel-planner/blob/main/documentation/Sprint%205%2007.05-20.05.pdf)
+- 📈 [Sprint 6 (21.05-05.06)](https://github.com/slash0t/travel-planner/blob/main/documentation/Sprint%206%2021.05-05.06.pdf)
 
 </details>
 
