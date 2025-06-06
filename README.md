@@ -138,6 +138,13 @@
 | 📊 **Презентация** | PDF | [Скачать](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod3Att.pdf) |
 | 📊 **Презентация** | PPTX | [Скачать](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod3Att.pptx) |
 
+### 🎯 Защита
+| Материал | Формат | Ссылка |
+|----------|--------|--------|
+| 📊 **Презентация** | PDF | [Скачать](https://github.com/slash0t/travel-planner/blob/main/presentation/PutevodZ.pdf) |
+| 📊 **Презентация** | PPTX | [Скачать](https://github.com/slash0t/travel-planner/blob/main/presentation/Putevod.pptx) |
+
+
 ## 🔗 Дополнительные ресурсы
 
 - 📊 [Диаграммы](https://miro.com/app/board/uXjVIYva4nE=/?moveToWidget=3458764622661006601&cot=14)
